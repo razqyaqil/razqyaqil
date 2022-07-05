@@ -6,7 +6,7 @@
 
       Email     : razqyaqil2@gmail.com     
       Twitter   : @razqyaqil
-      Instagram : @razqyaqi.
+      Instagram : @razqyaqil
 
 <!---
 razqyaqil/razqyaqil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
