@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : 
-      Email     : razqyaqil2@gmail.com
+
+      Email     : razqyaqil2@gmail.com     
       Twitter   : @razqyaqil
       Instagram : @razqyaqi.
 
