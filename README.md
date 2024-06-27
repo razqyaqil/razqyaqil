@@ -1,5 +1,5 @@
 - 👋 Hi, I’m razqy
-- 👀 I’m interested in Data Science and UI/UX
+- 👀 I’m interested in Quality Assurance and Software Testing
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : 
